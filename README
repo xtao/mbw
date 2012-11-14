@@ -8,3 +8,5 @@ http://github.com/raas/mbw
 
 watch out for swap usage (or turn off swap)
 
+Fix:
+* Use memcpy instead of mempcpy for OS compitable
